@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PetApp</string>
+    <string name="login_google">Ingresar con Google</string>
+</resources>
